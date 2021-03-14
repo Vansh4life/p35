@@ -3,7 +3,7 @@ var balloon;
 function preload(){
   backgroundImg = loadImage("pro-C35 images/Hot Air Ballon-01.png");
 
-  balloonImg = loadImage("pro-C35 images/Hot Air Balloon-02.png");
+  balloonImg = loadImage("pro-C35 images/Hot Air Ballon-02.png");
 }
 
 function setup() {
